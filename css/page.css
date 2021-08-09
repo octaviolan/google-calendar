@@ -12,11 +12,10 @@
 }
 
 .page .sidebar {
-  border: 1px solid blue;
   grid-area: sidebar;
+  border: 1px solid blue;
 }
 
 .page .calendar {
-  border: 1px solid yellow;
   grid-area: calendar;
 }
