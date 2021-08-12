@@ -8,5 +8,5 @@
   appearance: none;
   background-image: url('../icon/Icon-chevron-down.svg');
   background-repeat: no-repeat;
-  background-position: right center;
+  background-position: right .5rem center;
 }
