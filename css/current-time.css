@@ -17,3 +17,10 @@
   background: var(--red10);
   transform: translateY(-50%);
 }
+
+/* Calendar day */
+.currentTime.line {
+  inline-size: 62rem;
+  inset-inline-start: 70px;
+  inset-block-start: 540px;
+}

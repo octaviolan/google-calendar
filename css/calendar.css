@@ -24,5 +24,7 @@
 }
 
 .calendar-day {
-
+display: grid;
+grid-template-columns:auto 1fr;
+grid-template-rows: 7.75rem repeat(24, minmax(var(--minBlockSize), var(--maxBlockSize)));;
 }

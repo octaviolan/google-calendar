@@ -15,3 +15,7 @@
   margin: 0;
   white-space: nowrap;
 }
+
+.task.tasks {
+  background: var(--blue20);
+}

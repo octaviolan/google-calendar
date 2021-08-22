@@ -1,0 +1,34 @@
+.calendars {
+  inline-size: 12.25rem;
+}
+
+.calendars-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-block-end: .5rem;
+}
+
+.calendars-header span {
+  font: var(--body1-medium);
+}
+
+.calendars-header i {
+  font-size: 1.5rem;
+}
+
+.calendars-list {
+  display: flex;
+  flex-direction: column;
+  gap: .75rem;
+}
+
+.calendars-check i,
+.calendars-check span {
+  vertical-align: middle;
+}
+
+.calendars-check i {
+  font-size: 1.5rem;
+}
+

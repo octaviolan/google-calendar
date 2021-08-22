@@ -60,3 +60,10 @@
   background: var(--blue10);
   color: var(--white);
 }
+
+/* Calendar Day */
+.calendar-day .calendarDay.calendarDay.is-selected {
+  display: flex;
+  align-items: flex-start;
+  position: relative;
+}
