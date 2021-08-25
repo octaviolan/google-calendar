@@ -62,8 +62,10 @@
 }
 
 /* Calendar Day */
-.calendar-day .calendarDay.calendarDay.is-selected {
+
+.calendar-day .calendarDay.today {
   display: flex;
+  justify-content: center;
   align-items: flex-start;
   position: relative;
 }

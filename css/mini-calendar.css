@@ -47,3 +47,9 @@
 .miniCalendar-monthDay.is-inactive {
   color: var(--gray20);
 }
+
+.miniCalendar-monthDay.is-today {
+  background: var(--gray10);
+  color: var(--blue10);
+  border-radius: 50%;
+}
